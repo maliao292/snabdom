@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/dist
 /.pnp
 .pnp.js
 .cache
@@ -9,8 +10,10 @@
 # testing
 /coverage
 
+
 # production
 /build
+
 
 # misc
 .DS_Store
